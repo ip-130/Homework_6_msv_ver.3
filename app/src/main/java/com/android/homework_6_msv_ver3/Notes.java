@@ -6,6 +6,6 @@ public class Notes {
     public String createData;
     public String changeData;
 
-    
+
 
 }
